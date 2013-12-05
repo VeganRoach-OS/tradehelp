@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+        <items>
+    <version>1.6.4_u1</version>
+            <item id="Dirt">
+                <price>1</price>
+            </item>
+
+            <item id="Cobblestone">
+                <price>1</price>
+            </item>
+
+            <item id="Sapling">
+                <price>32</price>
+            </item>
+
+            <item id="Sand">
+                <price>1</price>
+            </item>
+
+            <item id="Gravel">
+                <price>4</price>
+            </item>
+
+            <item id="Gold Ore">
+                <price>226</price>
+            </item>
+
+            <item id="Iron Ore">
+                <price>240</price>
+            </item>
+
+            <item id="Wood">
+                <price>32</price>
+            </item>
+
+            <item id="Leaves">
+                <price>1</price>
+            </item>
+
+            <item id="Tall Grass">
+                <price>1</price>
+            </item>
+
+            <item id="Wool">
+                <price>48</price>
+            </item>
+
+            <item id="Dandelion">
+                <price>16</price>
+            </item>
+
+            <item id="Rose">
+                <price>16</price>
+            </item>
+
+            <item id="Mushroom">
+                <price>32</price>
+            </item>
+
+            <item id="Moss Stone">
+                <price>145</price>
+            </item>
+
+            <item id="Obsidian">
+                <price>64</price>
+            </item>
+
+            <item id="Cactus">
+                <price>8</price>
+            </item>
+
+            <item id="Pumpkin">
+                <price>144</price>
+            </item>
+
+            <item id="Netherrack">
+                <price>10</price>
+            </item>
+
+            <item id="Soul Sand">
+                <price>49</price>
+            </item>
+
+            <item id="Mossy Stone Brick">
+                <price>145</price>
+            </item>
+
+            <item id="Cracked Stone Brick">
+                <price>145</price>
+            </item>
+
+            <item id="Vines">
+                <price>8</price>
+            </item>
+
+            <item id="Mycelium">
+                <price>1</price>
+            </item>
+
+            <item id="Lily Pad">
+                <price>16</price>
+            </item>
+
+            <item id="Nether Wart">
+                <price>240</price>
+            </item>
+
+            <item id="End Stone">
+                <price>100</price>
+            </item>
+
+            <item id="Dragon Egg">
+                <price>139264</price>
+            </item>
+
+            <item id="Apple">
+                <price>320</price>
+            </item>
+
+            <item id="Coal">
+                <price>128</price>
+            </item>
+
+            <item id="Diamond Gem">
+                <price>8192</price>
+            </item>
+
+            <item id="String">
+                <price>12</price>
+            </item>
+
+            <item id="Feather">
+                <price>48</price>
+            </item>
+
+            <item id="Gunpowder">
+                <price>192</price>
+            </item>
+
+            <item id="Wheat Seeds">
+                <price>16</price>
+            </item>
+
+            <item id="Wheat">
+                <price>24</price>
+            </item>
+
+            <item id="Flint">
+                <price>4</price>
+            </item>
+
+            <item id="Raw Porkchop">
+                <price>64</price>
+            </item>
+
+            <item id="Bucket (Water)">
+                <price>769</price>
+            </item>
+
+            <item id="Bucket (Lava)">
+                <price>832</price>
+            </item>
+
+            <item id="Saddle">
+                <price>192</price>
+            </item>
+
+            <item id="Redstone Dust">
+                <price>64</price>
+            </item>
+
+            <item id="Snowball">
+                <price>1</price>
+            </item>
+
+            <item id="Leather">
+                <price>64</price>
+            </item>
+
+            <item id="Bucket (Milk)">
+                <price>833</price>
+            </item>
+
+            <item id="Clay">
+                <price>64</price>
+            </item>
+
+            <item id="Sugar Cane">
+                <price>32</price>
+            </item>
+
+            <item id="Slimeball">
+                <price>24</price>
+            </item>
+
+            <item id="Egg">
+                <price>32</price>
+            </item>
+
+            <item id="Glowstone Dust">
+                <price>384</price>
+            </item>
+
+            <item id="Raw Fish">
+                <price>64</price>
+            </item>
+
+            <item id="Ink Sack">
+                <price>8</price>
+            </item>
+
+            <item id="Cocoa Bean">
+                <price>8</price>
+            </item>
+
+            <item id="Lapis Lazuli">
+                <price>128</price>
+            </item>
+
+            <item id="Bone">
+                <price>96</price>
+            </item>
+
+            <item id="Map">
+                <price>320</price>
+            </item>
+
+            <item id="Melon (Slice)">
+                <price>144</price>
+            </item>
+
+            <item id="Pumpkin Seeds">
+                <price>16</price>
+            </item>
+
+            <item id="Melon Seeds">
+                <price>16</price>
+            </item>
+
+            <item id="Raw Beef">
+                <price>64</price>
+            </item>
+
+            <item id="Raw Chicken">
+                <price>64</price>
+            </item>
+
+            <item id="Rotten Flesh">
+                <price>24</price>
+            </item>
+
+            <item id="Ender Pearl">
+                <price>1024</price>
+            </item>
+
+            <item id="Blaze Rod">
+                <price>1536</price>
+            </item>
+
+            <item id="Ghast Tear">
+                <price>4096</price>
+            </item>
+
+            <item id="Spider Eye">
+                <price>128</price>
+            </item>
+
+            <item id="Written Book">
+                <price>868</price>
+            </item>
+
+            <item id="Emerald">
+                <price>6760</price>
+            </item>
+
+            <item id="Carrot">
+                <price>60</price>
+            </item>
+
+            <item id="Potato">
+                <price>72</price>
+            </item>
+
+            <item id="Poisonous Potato">
+                <price>24</price>
+            </item>
+
+            <item id="Head (Wither)">
+                <price>23015</price>
+            </item>
+
+            <item id="Nether Star">
+                <price>69632</price>
+            </item>
+
+            <item id="Nether Quartz">
+                <price>240</price>
+            </item>
+        </items>

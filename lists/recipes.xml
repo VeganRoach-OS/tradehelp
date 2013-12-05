@@ -1,0 +1,2884 @@
+<?xml version="1.0"?>
+        <items>
+    <version>1.6.4_u1</version>
+    <item id="Fuel">
+        <component id="Coal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stone">
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+        <component id="Cobblestone">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Dirt">
+        <component id="Dirt">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Cobblestone">
+        <component id="Cobblestone">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Plank">
+        <component id="Wood">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Sapling">
+        <component id="Sapling">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Sand">
+        <component id="Sand">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gravel">
+        <component id="Gravel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Ore">
+        <component id="Gold Ore">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Ore">
+        <component id="Iron Ore">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wood">
+        <component id="Wood">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Leaves">
+        <component id="Leaves">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Glass">
+        <component id="Sand">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Lapis Lazuli Block">
+        <component id="Lapis Lazuli">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Dispenser">
+        <component id="Bow">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <component id="Cobblestone">
+            <quantity>7</quantity>
+        </component>
+    </item>
+
+    <item id="Sandstone">
+        <component id="Sand">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Sandstone (Hieroglyphic)">
+        <component id="Sandstone Slab">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Sandstone (Smooth)">
+        <component id="Sandstone">
+            <quantity>4</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Note Block">
+        <component id="Wooden Plank">
+            <quantity>8</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Rail (Powered)">
+        <component id="Gold Ingot">
+            <quantity>6</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Rail (Detector)">
+        <component id="Iron Ingot">
+            <quantity>6</quantity>
+        </component>
+        <component id="Pressure Plate (Stone)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Piston (Sticky)">
+        <component id="Piston">
+            <quantity>1</quantity>
+        </component>
+        <component id="Slimeball">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Tall Grass">
+        <component id="Tall Grass">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Piston">
+        <component id="Wooden Plank">
+            <quantity>3</quantity>
+        </component>
+        <component id="Cobblestone">
+            <quantity>4</quantity>
+        </component>
+        <component id="Iron Ingot">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Orange)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Orange)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Magenta)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Magenta)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Light Blue)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Light Blue)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Yellow)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Yellow)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Lime)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Lime)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Pink)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Pink)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Gray)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Gray)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Light Gray)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Light Gray)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Cyan)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Cyan)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Purple)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Purple)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Blue)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Lapis Lazuli">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Brown)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Cocoa Beans">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Green)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Green)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Red)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Red)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wool (Black)">
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+        <component id="Ink Sack">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Dandelion">
+        <component id="Dandelion">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Rose">
+        <component id="Rose">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Mushroom">
+        <component id="Mushroom">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Block">
+        <component id="Gold Ingot">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Block">
+        <component id="Iron Ingot">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Slab">
+        <component id="Stone">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Sandstone Slab">
+        <component id="Sandstone">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Wooden Slab">
+        <component id="Wooden Plank">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Cobblestone Slab">
+        <component id="Cobblestone">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Brick Slab">
+        <component id="Brick Block">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Stone Brick Slab">
+        <component id="Stone Brick">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Brick Block">
+        <component id="Brick">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="TNT">
+        <component id="Sand">
+            <quantity>4</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Bookcase">
+        <component id="Wooden Plank">
+            <quantity>6</quantity>
+        </component>
+        <component id="Book">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Moss Stone">
+        <component id="Moss Stone">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Obsidian">
+        <component id="Obsidian">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Torch">
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+        <component id="Coal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Wooden Stairs">
+        <component id="Wooden Plank">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Chest">
+        <component id="Wooden Plank">
+            <quantity>8</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Block">
+        <component id="Diamond Gem">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Workbench">
+        <component id="Wooden Plank">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Furnace">
+        <component id="Cobblestone">
+            <quantity>8</quantity>
+        </component>
+    </item>
+
+    <item id="Ladder">
+        <component id="Stick">
+            <quantity>7</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Rails">
+        <component id="Iron Ingot">
+            <quantity>6</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>16</opquantity>
+    </item>
+
+    <item id="Cobblestone Stairs">
+        <component id="Cobblestone">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Lever">
+        <component id="Cobblestone">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Pressure Plate (Stone)">
+        <component id="Stone">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Pressure Plate (Wood)">
+        <component id="Wooden Plank">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Redstone Torch">
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Button (Stone)">
+        <component id="Stone">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Snow Block">
+        <component id="Snowball">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Cactus">
+        <component id="Cactus">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Clay Block">
+        <component id="Clay">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Jukebox">
+        <component id="Wooden Planks">
+            <quantity>8</quantity>
+        </component>
+        <component id="Diamond Gem">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Fence">
+        <component id="Stick">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Pumpkin">
+        <component id="Pumpkin">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Netherrack">
+        <component id="Netherrack">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Soul Sand">
+        <component id="Soul Sand">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Glowstone Block">
+        <component id="Glowstone Dust">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Jack o'Lantern">
+        <component id="Pumpkin">
+            <quantity>1</quantity>
+        </component>
+        <component id="Torch">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Trapdoor">
+        <component id="Wooden Plank">
+            <quantity>6</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Brick">
+        <component id="Stone">
+            <quantity>4</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Stone Brick (Mossy)">
+        <component id="Mossy Stone Brick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Brick (Cracked)">
+        <component id="Cracked Stone Brick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Bars">
+        <component id="Iron Ingot">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>16</opquantity>
+    </item>
+
+    <item id="Glass Pane">
+        <component id="Glass">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>16</opquantity>
+    </item>
+
+    <item id="Melon (Block)">
+        <component id="Melon (Slice)">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Vines">
+        <component id="Vines">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Fence Gate">
+        <component id="Stick">
+            <quantity>4</quantity>
+        </component>
+        <component id="Wooden Plank">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Brick Stairs">
+        <component id="Brick Block">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Stone Brick Stairs">
+        <component id="Stone Brick">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Mycelium">
+        <component id="Mycelium">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Lily Pad">
+        <component id="Lily Pad">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Brick Block">
+        <component id="Nether Brick">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Brick Fence">
+        <component id="Nether Brick Block">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Nether Brick Stairs">
+        <component id="Nether Brick Block">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Nether Wart">
+        <component id="Nether Wart">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Enchantment Table">
+        <component id="Obsidian">
+            <quantity>4</quantity>
+        </component>
+        <component id="Diamond Gem">
+            <quantity>2</quantity>
+        </component>
+        <component id="Book">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="End Stone">
+        <component id="End Stone">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Dragon Egg">
+        <component id="Dragon Egg">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Redstone Lamp">
+        <component id="Redstone Dust">
+            <quantity>4</quantity>
+        </component>
+        <component id="Glowstone Block">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Sandstone Stairs">
+        <component id="Sandstone">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Ender Chest">
+        <component id="Obsidian">
+            <quantity>8</quantity>
+        </component>
+        <component id="Ender Eye">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Tripwire Hook">
+        <component id="Iron Ingot">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+        <component id="Wooden Plank">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Emerald Block">
+        <component id="Emerald">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Beacon">
+        <component id="Glass">
+            <quantity>5</quantity>
+        </component>
+        <component id="Obsidian">
+            <quantity>3</quantity>
+        </component>
+        <component id="Nether Star">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Cobblestone Wall">
+        <component id="Cobblestone">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Mossy Cobblestone Wall">
+        <component id="Moss Stone">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Button (Wood)">
+        <component id="Wooden Plank">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Anvil">
+        <component id="Iron Ingot">
+            <quantity>4</quantity>
+        </component>
+        <component id="Iron Block">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Shovel">
+        <component id="Iron Ingot">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Pickaxe">
+        <component id="Iron Ingot">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Axe">
+        <component id="Iron Ingot">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Flint and Steel">
+        <component id="Iron Ingot">
+            <quantity>1</quantity>
+        </component>
+        <component id="Flint">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Apple">
+        <component id="Apple">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Bow">
+        <component id="String">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Arrow">
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+        <component id="Flint">
+            <quantity>1</quantity>
+        </component>
+        <component id="Feather">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Coal">
+        <component id="Coal">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Charcoal">
+        <component id="Wood">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Gem">
+        <component id="Diamond Gem">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Ingot">
+        <component id="Iron Ore">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Ingot">
+        <component id="Gold Ore">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Sword">
+        <component id="Iron Ingot">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Sword">
+        <component id="Wooden Plank">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Shovel">
+        <component id="Wooden Plank">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Pickaxe">
+        <component id="Wooden Plank">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Axe">
+        <component id="Wooden Plank">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Sword">
+        <component id="Cobblestone">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Shovel">
+        <component id="Cobblestone">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Pickaxe">
+        <component id="Cobblestone">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Axe">
+        <component id="Cobblestone">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Sword">
+        <component id="Diamond Gem">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Shovel">
+        <component id="Diamond Gem">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Pickaxe">
+        <component id="Diamond Gem">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Axe">
+        <component id="Diamond Gem">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Stick">
+        <component id="Wooden Plank">
+            <quantity>2</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Bowl">
+        <component id="Wooden Plank">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Mushroom Stew">
+        <component id="Mushroom">
+            <quantity>2</quantity>
+        </component>
+        <component id="Bowl">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Sword">
+        <component id="Gold Ingot">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Shovel">
+        <component id="Gold Ingot">
+            <quantity>1</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Pickaxe">
+        <component id="Gold Ingot">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Axe">
+        <component id="Gold Ingot">
+            <quantity>3</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="String">
+        <component id="String">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Feather">
+        <component id="Feather">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gunpowder">
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wooden Hoe">
+        <component id="Wooden Plank">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Stone Hoe">
+        <component id="Cobblestone">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Hoe">
+        <component id="Iron Ingot">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Hoe">
+        <component id="Diamond Gem">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Hoe">
+        <component id="Gold Ingot">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Wheat Seeds">
+        <component id="Wheat Seeds">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Wheat">
+        <component id="Wheat">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Bread">
+        <component id="Wheat">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Leather Cap">
+        <component id="Leather">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Leather Tunic">
+        <component id="Leather">
+            <quantity>8</quantity>
+        </component>
+    </item>
+
+    <item id="Leather Leggings">
+        <component id="Leather">
+            <quantity>7</quantity>
+        </component>
+    </item>
+
+    <item id="Leather Boots">
+        <component id="Leather">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Helmet">
+        <component id="Iron Ingot">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Chestplate">
+        <component id="Iron Ingot">
+            <quantity>8</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Leggings">
+        <component id="Iron Ingot">
+            <quantity>7</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Boots">
+        <component id="Iron Ingot">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Helmet">
+        <component id="Diamond Gem">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Chestplate">
+        <component id="Diamond Gem">
+            <quantity>8</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Leggings">
+        <component id="Diamond Gem">
+            <quantity>7</quantity>
+        </component>
+    </item>
+
+    <item id="Diamond Boots">
+        <component id="Diamond Gem">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Helmet">
+        <component id="Gold Ingot">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Chestplate">
+        <component id="Gold Ingot">
+            <quantity>8</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Leggings">
+        <component id="Gold Ingot">
+            <quantity>7</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Boots">
+        <component id="Gold Ingot">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Flint">
+        <component id="Flint">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Porkchop (Raw)">
+        <component id="Raw Porkchop">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Porkchop (Cooked)">
+        <component id="Raw Porkchop">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Painting">
+        <component id="Stick">
+            <quantity>8</quantity>
+        </component>
+        <component id="Wool">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Apple (Normal)">
+        <component id="Gold Ingot">
+            <quantity>8</quantity>
+        </component>
+        <component id="Apple">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Apple (Enchanted)">
+        <component id="Gold Block">
+            <quantity>8</quantity>
+        </component>
+        <component id="Apple">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Sign">
+        <component id="Wooden Plank">
+            <quantity>6</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Wooden Door">
+        <component id="Wooden Plank">
+            <quantity>6</quantity>
+        </component>
+    </item>
+
+    <item id="Bucket">
+        <component id="Iron Ingot">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Bucket (Water)">
+        <component id="Bucket (Water)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Bucket (Lava)">
+        <component id="Bucket (Lava)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Minecart">
+        <component id="Iron Ingot">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Saddle">
+        <component id="Saddle">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Iron Door">
+        <component id="Iron Ingot">
+            <quantity>6</quantity>
+        </component>
+    </item>
+
+    <item id="Redstone Dust">
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Snowball">
+        <component id="Snowball">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Boat">
+        <component id="Wooden Plank">
+            <quantity>5</quantity>
+        </component>
+    </item>
+
+    <item id="Leather">
+        <component id="Leather">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Bucket (Milk)">
+        <component id="Bucket (Milk)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Brick">
+        <component id="Clay">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Clay">
+        <component id="Clay">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Sugar Cane">
+        <component id="Sugar Cane">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Paper">
+        <component id="Sugar Cane">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Book">
+        <component id="Paper">
+            <quantity>3</quantity>
+        </component>
+        <component id="Leather">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Slimeball">
+        <component id="Slimeball">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Minecart (Storage)">
+        <component id="Minecart">
+            <quantity>1</quantity>
+        </component>
+        <component id="Chest">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Minecart (Furnace)">
+        <component id="Minecart">
+            <quantity>1</quantity>
+        </component>
+        <component id="Furnace">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Egg">
+        <component id="Egg">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Compass">
+        <component id="Iron Ingot">
+            <quantity>4</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Fishing Rod">
+        <component id="String">
+            <quantity>2</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Clock">
+        <component id="Gold Ingot">
+            <quantity>4</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Glowstone Dust">
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Fish (Raw)">
+        <component id="Raw Fish">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Fish (Cooked)">
+        <component id="Raw Fish">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Ink Sack">
+        <component id="Ink Sack">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Dye (Red)">
+        <component id="Rose">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Green)">
+        <component id="Cactus">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Cocoa Bean">
+        <component id="Cocoa Bean">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Lapis Lazuli">
+        <component id="Lapis Lazuli">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Dye (Purple)">
+        <component id="Dye (Red)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Lapis Lazuli">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Cyan)">
+        <component id="Dye (Green)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Lapis Lazuli">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Light Gray)">
+        <component id="Dye (Gray)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Bone Meal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Gray)">
+        <component id="Ink Sack">
+            <quantity>1</quantity>
+        </component>
+        <component id="Bone Meal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Pink Dye">
+        <component id="Dye (Red)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Bone Meal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Lime)">
+        <component id="Dye (Green)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Bone Meal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Yellow)">
+        <component id="Dandelion">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Dye (Light Blue)">
+        <component id="Lapis Lazuli">
+            <quantity>1</quantity>
+        </component>
+        <component id="Bone Meal">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Magenta)">
+        <component id="Dye (Purple)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Pink)">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Dye (Orange)">
+        <component id="Dye (Red)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Dye (Yellow)">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Bone Meal">
+        <component id="Bone">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Bone">
+        <component id="Bone">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Sugar">
+        <component id="Sugar Cane">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Cake">
+        <component id="Bucket (Milk)">
+            <quantity>3</quantity>
+        </component>
+        <component id="Sugar">
+            <quantity>2</quantity>
+        </component>
+        <component id="Egg">
+            <quantity>1</quantity>
+        </component>
+        <component id="Wheat">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Bed">
+        <component id="Wooden Plank">
+            <quantity>3</quantity>
+        </component>
+        <component id="Wool">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Redstone Repeater">
+        <component id="Stone">
+            <quantity>3</quantity>
+        </component>
+        <component id="Redstone Torch">
+            <quantity>2</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Cookie">
+        <component id="Wheat">
+            <quantity>2</quantity>
+        </component>
+        <component id="Cocoa Bean">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Map">
+        <component id="Paper">
+            <quantity>8</quantity>
+        </component>
+        <component id="Compass">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Shears">
+        <component id="Iron Ingot">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Melon (Slice)">
+        <component id="Melon (Slice)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Pumpkin Seeds">
+        <component id="Pumpkin Seeds">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Melon Seeds">
+        <component id="Melon Seeds">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Beef (Raw)">
+        <component id="Raw Beef">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Beef (Cooked)">
+        <component id="Beef (Raw)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Chicken (Raw)">
+        <component id="Raw Chicken">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Chicken (Cooked)">
+        <component id="Chicken (Raw)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Rotten Flesh">
+        <component id="Rotten Flesh">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Ender Pearl">
+        <component id="Ender Pearl">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Blaze Rod">
+        <component id="Blaze Rod">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Ghast Tear">
+        <component id="Ghast Tear">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Nugget">
+        <component id="Gold Ingot">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>9</opquantity>
+    </item>
+
+    <item id="Glass Bottle">
+        <component id="Glass">
+            <quantity>3</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Spider Eye">
+        <component id="Spider Eye">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Spider Eye (Fermented)">
+        <component id="Spider Eye">
+            <quantity>1</quantity>
+        </component>
+        <component id="Sugar">
+            <quantity>1</quantity>
+        </component>
+        <component id="Mushroom">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Blaze Powder">
+        <component id="Blaze Rod">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Magma Cream">
+        <component id="Slimeball">
+            <quantity>1</quantity>
+        </component>
+        <component id="Blaze Powder">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Brewing Stand">
+        <component id="Blaze Rod">
+            <quantity>1</quantity>
+        </component>
+        <component id="Cobblestone">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Cauldron">
+        <component id="Iron Ingot">
+            <quantity>7</quantity>
+        </component>
+    </item>
+
+    <item id="Ender Eye">
+        <component id="Ender Pearl">
+            <quantity>1</quantity>
+        </component>
+        <component id="Blaze Powder">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Glistering Melon">
+        <component id="Gold Nugget">
+            <quantity>8</quantity>
+        </component>
+        <component id="Melon (Slice)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Fire Charge">
+        <component id="Coal">
+            <quantity>1</quantity>
+        </component>
+        <component id="Blaze Powder">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Book and Quill">
+        <component id="Book">
+            <quantity>1</quantity>
+        </component>
+        <component id="Ink Sack">
+            <quantity>1</quantity>
+        </component>
+        <component id="Feather">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Emerald">
+        <component id="Emerald">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Item Frame">
+        <component id="Stick">
+            <quantity>8</quantity>
+        </component>
+        <component id="Leather">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Flower Pot">
+        <component id="Brick">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Carrot">
+        <component id="Carrot">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Potato">
+        <component id="Potato">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Potato (Baked)">
+        <component id="Potato">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Gold Carrot">
+        <component id="Gold Nugget">
+            <quantity>8</quantity>
+        </component>
+        <component id="Carrot">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Head (Wither)">
+        <component id="Head (Wither)">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Carrot on a Stick">
+        <component id="Fishing Rod">
+            <quantity>1</quantity>
+        </component>
+        <component id="Carrot">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Star">
+        <component id="Nether Star">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Pumpkin Pie">
+        <component id="Pumpkin">
+            <quantity>1</quantity>
+        </component>
+        <component id="Sugar">
+            <quantity>1</quantity>
+        </component>
+        <component id="Egg">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Pressure Plate (Gold)">
+        <component id="Gold Ingot">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Pressure Plate (Iron)">
+        <component id="Iron Ingot">
+            <quantity>2</quantity>
+        </component>
+    </item>
+
+    <item id="Daylight Sensor">
+        <component id="Glass">
+            <quantity>3</quantity>
+        </component>
+        <component id="Nether Quartz">
+            <quantity>3</quantity>
+        </component>
+        <component id="Wooden Slab">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Redstone Block">
+        <component id="Redstone Dust">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Hopper">
+        <component id="Iron Ingot">
+            <quantity>5</quantity>
+        </component>
+        <component id="Chest">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Quartz Block">
+        <component id="Nether Quartz">
+            <quantity>4</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Quartz Stairs">
+        <component id="Nether Quartz Block">
+            <quantity>6</quantity>
+        </component>
+        <opquantity>4</opquantity>
+    </item>
+
+    <item id="Rail (Activator)">
+        <component id="Iron Ingot">
+            <quantity>6</quantity>
+        </component>
+        <component id="Stick">
+            <quantity>2</quantity>
+        </component>
+        <component id="Redstone Torch">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>6</opquantity>
+    </item>
+
+    <item id="Dropper">
+        <component id="Cobblestone">
+            <quantity>7</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Hardened Clay">
+        <component id="Clay Block">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Redstone Comparator">
+        <component id="Stone">
+            <quantity>3</quantity>
+        </component>
+        <component id="Nether Quartz">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Torch">
+            <quantity>3</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Brick">
+        <component id="Natherrack">
+            <quantity>1</quantity>
+        </component>
+        <component id="Fuel">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Nether Quartz">
+        <component id="Nether Quartz">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Minecart (TNT)">
+        <component id="Minecart">
+            <quantity>1</quantity>
+        </component>
+        <component id="TNT">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Minecart (Hopper)">
+        <component id="Minecart">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hopper">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Lead">
+        <component id="Slimeball">
+            <quantity>1</quantity>
+        </component>
+        <component id="String">
+            <quantity>4</quantity>
+        </component>
+        <opquantity>2</opquantity>
+    </item>
+
+    <item id="Hay Bale">
+        <component id="Wheat">
+            <quantity>9</quantity>
+        </component>
+    </item>
+
+    <item id="Glass Bottle (Water)">
+        <component id="Glass Bottle">
+            <quantity>1</quantity>
+        </component>
+    </item>
+
+    <item id="Potion (Awkward)">
+        <component id="Glass Bottle (Water)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Nether Wart">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Thick)">
+        <component id="Glass Bottle (Water)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Mundane)">
+        <component id="Glass Bottle (Water)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <!-- Normal Potions -->
+
+    <item id="Potion (Regeneration)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Ghast Tear">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Swiftness)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Sugar">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Fire Resistance)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Magma Cream">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Poison)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Spider Eye">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Healing)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glistering Melon">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Night Vision)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Golden Carrot">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Weakness)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Spider Eye (Fermented)">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Strength)">
+        <component id="Potion (Awkward)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Blaze Powder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Slowness)">
+        <component id="Potion (Swiftness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Spider Eye (Fermented)">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Harming)">
+        <component id="Potion (Healing)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Spider Eye (Fermented)">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Invisibility)">
+        <component id="Potion (Night Vision)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Spider Eye (Fermented)">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <!-- Extra potency potions -->
+
+    <item id="Potion (Regeneration II)">
+        <component id="Potion (Regeneration)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Swiftness II)">
+        <component id="Potion (Swiftness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Poison II)">
+        <component id="Potion (Poison)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Healing II)">
+        <component id="Potion (Healing)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Strength II)">
+        <component id="Potion (Strength)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Harming II)">
+        <component id="Potion (Harming)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Glowstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <!-- Extended potions -->
+
+    <item id="Potion (Regeneration Extended)">
+        <component id="Potion (Regeneration)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Swiftness Extended)">
+        <component id="Potion (Swiftness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Fire Resistance Extended)">
+        <component id="Potion (Fire Resistance)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Poison Extended)">
+        <component id="Potion (Poison)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Night Vision Extended)">
+        <component id="Potion (Night Vision)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Weakness Extended)">
+        <component id="Potion (Weakness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Strength Extended)">
+        <component id="Potion (Strength)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Slowness Extended)">
+        <component id="Potion (Slowness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Invisibility Extended)">
+        <component id="Potion (Invisibility)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Redstone Dust">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <!-- Splash potions -->
+
+    <item id="Potion (Regeneration Splash)">
+        <component id="Potion (Regeneration)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Swiftness Splash)">
+        <component id="Potion (Swiftness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Fire Resistance Splash)">
+        <component id="Potion (Fire Resistance)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Poison Splash)">
+        <component id="Potion (Poison)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Healing Splash)">
+        <component id="Potion (Healing)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Night Vision Splash)">
+        <component id="Potion (Night Vision)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Weakness Splash)">
+        <component id="Potion (Weakness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Strength Splash)">
+        <component id="Potion (Strength)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Slowness Splash)">
+        <component id="Potion (Slowness)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Harming Splash)">
+        <component id="Potion (Harming)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Invisibility Splash)">
+        <component id="Potion (Invisibility)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Regeneration II Splash)">
+        <component id="Potion (Regeneration II)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Swiftness II Splash)">
+        <component id="Potion (Swiftness II)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Poison II Splash)">
+        <component id="Potion (Poison II)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Healing II Splash)">
+        <component id="Potion (Healing II)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Strength II Splash)">
+        <component id="Potion (Strength II)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Harming II Splash)">
+        <component id="Potion (Harming II)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Regeneration Extended Splash)">
+        <component id="Potion (Regeneration Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Swiftness Extended Splash)">
+        <component id="Potion (Swiftness Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Fire Resistance Extended Splash)">
+        <component id="Potion (Fire Resistance Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Poison Extended Splash)">
+        <component id="Potion (Poison Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Night Vision Extended Splash)">
+        <component id="Potion (Night Vision Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Weakness Extended Splash)">
+        <component id="Potion (Weakness Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Strength Extended Splash)">
+        <component id="Potion (Strength Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Slowness Extended Splash)">
+        <component id="Potion (Slowness Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <item id="Potion (Invisibility Extended Splash)">
+        <component id="Potion (Invisibility Extended)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Gunpowder">
+            <quantity>1</quantity>
+        </component>
+        <opquantity>3</opquantity>
+    </item>
+
+    <!-- end potions -->
+
+    <item id="Stained Clay (Red)">
+        <component id="Dye (Red)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Yellow)">
+        <component id="Dye (Yellow)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Blue)">
+        <component id="Lapis Lazuli">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Green)">
+        <component id="Dye (Green)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Black)">
+        <component id="Ink Sack">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (White)">
+        <component id="Bone Meal">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Brown)">
+        <component id="Cocoa Beans">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Red)">
+        <component id="Dye (Red)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Orange)">
+        <component id="Dye (Orange)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Cyan)">
+        <component id="Dye (Cyan)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Purple)">
+        <component id="Dye (Purple)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Gray)">
+        <component id="Dye (Gray)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Light Blue)">
+        <component id="Dye (Light Blue)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Pink)">
+        <component id="Dye (Pink)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Lime)">
+        <component id="Dye (Lime)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Magenta)">
+        <component id="Dye (Magenta)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+    <item id="Stained Clay (Light Gray)">
+        <component id="Dye (Light Gray)">
+            <quantity>1</quantity>
+        </component>
+        <component id="Hardened Clay">
+            <quantity>8</quantity>
+        </component>
+        <opquantity>8</opquantity>
+    </item>
+
+
+        </items>
